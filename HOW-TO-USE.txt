@@ -1,0 +1,70 @@
+========================================
+          TRANSCRIBER INSTRUCTIONS
+========================================
+
+STEP 0 - INSTALL PYTHON (FIRST TIME ONLY)
+
+WINDOWS USERS:
+  1) Go to:  https://www.python.org/downloads/
+  2) Download "Python 3.11 (64-bit)".
+  3) During installation, CHECK the box "Add Python to PATH".
+
+MAC USERS:
+  1) Go to:  https://www.python.org/downloads/
+  2) Download "Python 3.11" (macOS installer).
+  3) Run the installer.
+
+NOTE: You only need to install Python once. 
+In the future, skip this step.
+
+========================================
+
+STEP 1 - PUT AUDIO FILES
+
+  Put the files you want to transcribe into:
+    1 - Put-Audio-Files-Here
+
+========================================
+
+STEP 2 - RUN THE TRANSCRIBER
+
+  On WINDOWS: double-click
+    2 - CLICK-TO-TRANSCRIBE-WINDOWS.bat
+
+  On MAC: double-click
+    2 - CLICK-TO-TRANSCRIBE-MAC.command
+
+The program will set itself up and start transcribing.
+This may take a couple minutes.
+
+========================================
+
+STEP 3 - READ YOUR TRANSCRIPTS
+
+  Finished transcripts will appear in:
+    3 - Read-Your-Transcripts-Here
+
+========================================
+
+STEP 4 - FINISHED AUDIO FILES
+
+  When done, your original audio files will move into:
+    4 - Finished-Audio-Moved-Here
+
+========================================
+
+NOTES
+
+- DO NOT touch any contents in:
+    5 - Ignore-This-Folder
+
+- Always put your audio files in STEP 1 before running.
+
+- If no audio files are found, the program will do nothing.
+
+- Let Emily know if it ever stops working
+	- Transcribing audio with this application costs ~$0.27 per every hour of audio.
+	- Emily has $50 in credit which she got for free when signing up.
+	- There should be enough for about 175 more hours of transcription.
+	- If it stops working because the limit was reached, let Emily know and she'll help you create your own account to add more credits.
+========================================
